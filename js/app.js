@@ -1,4 +1,4 @@
-(async () => {
+(async () => 
 	// TODO: add custom logic here
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(position => {
@@ -8,3 +8,6 @@
         });
     }
 })(); 
+    // TODO: add custom logic here
+})();
+
